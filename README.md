@@ -25,3 +25,6 @@ Para executar este projeto localmente, siga estas etapas:
     ```
     npm run dev
     ```
+## Me siga
+
+[Linkedin](https://www.linkedin.com/in/kauamntro/) e [Instagram](https://www.instagram.com/code.kaua/)
