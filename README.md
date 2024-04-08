@@ -1,8 +1,27 @@
-# React + Vite
+# Clone Netflix
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um clone da netflix usando e React + Vite. Projeto que exibe os trending tops em uma pagina inicial semelhante a da Netflix. Foi usado a api da [TheMovieDB](https://www.themoviedb.org/).
 
-Currently, two official plugins are available:
+<img src="./print.png"/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Instalação
+
+Para executar este projeto localmente, siga estas etapas:
+
+1. Clone o repositório para o seu ambiente local:
+
+    ```
+    git clone https://github.com/kauamntro/netflix-clone.git
+    ```
+
+2. Instale as dependências do projeto:
+
+    ```
+    npm install
+    ```
+
+3. Execute o projeto:
+
+    ```
+    npm run dev
+    ```
